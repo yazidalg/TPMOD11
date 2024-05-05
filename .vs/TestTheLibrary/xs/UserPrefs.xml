@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{EE339D72-B524-42EC-8170-0CEF44800C17}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestTheLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../LibararyMod10/LibararyMod10/Aljabar.cs">
+    <Files>
+      <File FileName="TestTheLibrary/Program.cs" Line="23" Column="42" />
+      <File FileName="../LibararyMod10/LibararyMod10/Aljabar.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTheLibrary" expanded="True">
+            <Node name="TestTheLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

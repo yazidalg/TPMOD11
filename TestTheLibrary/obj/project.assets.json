@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LibararyMod10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LibararyMod10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibararyMod10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibararyMod10/1.0.0": {
+      "type": "project",
+      "path": "../../LibararyMod10/LibararyMod10/LibararyMod10.csproj",
+      "msbuildProject": "../../LibararyMod10/LibararyMod10/LibararyMod10.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LibararyMod10 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/yazidal/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj",
+      "projectName": "TestTheLibrary",
+      "projectPath": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj",
+      "packagesPath": "/Users/yazidal/.nuget/packages/",
+      "outputPath": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/yazidal/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj": {
+              "projectPath": "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

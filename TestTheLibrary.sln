@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTheLibrary", "TestTheLibrary\TestTheLibrary.csproj", "{EE339D72-B524-42EC-8170-0CEF44800C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibararyMod10", "..\LibararyMod10\LibararyMod10\LibararyMod10.csproj", "{F9C5DD07-A233-4AC9-AC3A-B6EDD9351578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE339D72-B524-42EC-8170-0CEF44800C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE339D72-B524-42EC-8170-0CEF44800C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE339D72-B524-42EC-8170-0CEF44800C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE339D72-B524-42EC-8170-0CEF44800C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C5DD07-A233-4AC9-AC3A-B6EDD9351578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C5DD07-A233-4AC9-AC3A-B6EDD9351578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C5DD07-A233-4AC9-AC3A-B6EDD9351578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C5DD07-A233-4AC9-AC3A-B6EDD9351578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153EF6CE-1449-4ED2-94F4-C83069F9D82A}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

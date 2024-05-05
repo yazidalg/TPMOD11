@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestTheLibrary/1.0.0": {
+        "dependencies": {
+          "LibararyMod10": "1.0.0"
+        },
+        "runtime": {
+          "TestTheLibrary.dll": {}
+        }
+      },
+      "LibararyMod10/1.0.0": {
+        "runtime": {
+          "LibararyMod10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTheLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibararyMod10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

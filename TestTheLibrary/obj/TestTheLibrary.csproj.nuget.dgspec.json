@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj": {}
+  },
+  "projects": {
+    "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj",
+        "projectName": "LibararyMod10",
+        "projectPath": "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj",
+        "packagesPath": "/Users/yazidal/.nuget/packages/",
+        "outputPath": "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yazidal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj",
+        "projectName": "TestTheLibrary",
+        "projectPath": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/TestTheLibrary.csproj",
+        "packagesPath": "/Users/yazidal/.nuget/packages/",
+        "outputPath": "/Users/yazidal/Projects/TestTheLibrary/TestTheLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yazidal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj": {
+                "projectPath": "/Users/yazidal/Projects/LibararyMod10/LibararyMod10/LibararyMod10.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
